@@ -1,7 +1,8 @@
-Hello, world!
+Hello, Folks!
 Sat Oct  8 11:39:02 CDT 2016
 add some text
 now we are committing
 something_new
 new line for v2
 new line for v2
+new line for version 2
