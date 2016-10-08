@@ -4,3 +4,4 @@ add some text
 now we are committing
 something_new
 new line for v2
+new line for v2
